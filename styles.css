@@ -133,4 +133,19 @@ body {
 .footer {
     padding: 50px;
     text-align: center;
+    background-color: #00754a;
 }
+ .remove-link {
+    text-decoration: none;
+    color: black;
+ }
+
+ .end-links:hover {
+    color: white;
+
+ }
+
+ .end-links {
+    padding:2%;
+
+ }
